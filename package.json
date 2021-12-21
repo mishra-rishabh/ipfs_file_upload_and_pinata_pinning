@@ -1,0 +1,16 @@
+{
+  "name": "ipfs_file_upload_and_pinata_pinning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipfsUpload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "ipfs-http-client": "^55.0.0"
+  }
+}
